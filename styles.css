@@ -80,7 +80,9 @@ li{
     font-weight:normal ;
     color: #000000;
 }
-
+.nav-links {
+  display: block;
+}
 /* banner */
 
 .banner-section{
@@ -113,3 +115,19 @@ li{
     padding-top: 0px;
     padding-bottom: 0px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive */
+
